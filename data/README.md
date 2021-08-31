@@ -1,6 +1,6 @@
 ## Datasets for the paper "Cross-Lingual Text Classificationnof Transliterated Hindi and Malayalam"
 
-Please contact jkrishn2@gmu.edu to request the tweet datasets.
+Please contact us to request for the tweet datasets.
 
 ### Twitter Policy 
 Tweets extraction procedure was per Twitter ToS and did not violate privacy policies of individual users. Also data shared includes only Tweet IDs in the public domain.
@@ -26,9 +26,9 @@ Examples:
 
 ### New Dataset: Kerala Floods (1 file)
 
-Folder Location: data/floods/test
+Folder Location: ```data/floods/test```
 
-Filename: kerala_floods.csv
+Filename: ```kerala_floods.csv```
 
 Task - Relevancy Filtering: Select tweets that are related/relevant to Kerala Floods.
 
@@ -51,9 +51,9 @@ bendhapeduka.. Rajah  School chavakkad...!!!
 
 ### New Dataset: North India Floods (1 file)
 
-Folder Location: data/floods/test
+Folder Location: ```data/floods/test```
 
-Filename: north_india_floods.csv
+Filename: ```north_india_floods.csv```
 
 Task - Relevancy Filtering: Select tweets that are related/ 
 relevant to North India Floods.
@@ -93,7 +93,7 @@ APPEN (CRISIS - Train/Validation):
 - ```data/floods/appen-train-val/val/en```
 
 ### Augmented Datasets
-```ml``` := malayalam
-```hi``` := hindi
-```ro``` := romanized
-```combo``` := en+tr+tl
+- ```ml``` := malayalam
+- ```hi``` := hindi
+- ```ro``` := romanized
+- ```combo``` := en+tr+tl
