@@ -4,7 +4,7 @@ Source Code for the paper "Cross-Lingual Text Classification
 of Transliterated Hindi and Malayalam"
 
 ### Paper/Cite
-
+https://arxiv.org/abs/2108.13620
 
 ### Requirements
 - pip install transformers
