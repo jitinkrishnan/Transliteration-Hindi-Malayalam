@@ -1,6 +1,7 @@
 ## Datasets for the paper "Cross-Lingual Text Classificationnof Transliterated Hindi and Malayalam"
 
-Please contact us to request for the tweet datasets.
+Datasets (TweetIDs, labels) will be released shortly.
+Please contact us to request for these tweet datasets.
 
 ### Twitter Policy 
 Tweets extraction procedure was per Twitter ToS and did not violate privacy policies of individual users. Also data shared includes only Tweet IDs in the public domain.
