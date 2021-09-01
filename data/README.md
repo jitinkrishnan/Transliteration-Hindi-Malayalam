@@ -22,7 +22,9 @@ Guidelines/Rationale: Only select obviously polar sentences. Avoid neutral or am
 - Annotator Demographic: Kerala, India
 
 Examples:
+
 +: സമീപ കാലത്ത് കണ്ട ഫഹദിന്‍റെ ഏറ്റവും മികച്ച പ്രകടനങ്ങളിലൊന്ന്.
+
 -: ഞാൻ സിനിമയിൽ വളരെ നിരാശനായിരുന്നു.
 
 ### New Dataset: Kerala Floods (1 file)
@@ -45,9 +47,9 @@ Annotator(s): Two Native Speakers (College Graduates)
 Annotator Demographic: Kerala, India
 
 Examples:
-+: Chavakkad Guruvayoor pradheshangalil bakshanam 
-avishyamullavar thaazhe koduthitulla number il udane 
-bendhapeduka.. Rajah  School chavakkad...!!!
+
++: Chavakkad Guruvayoor pradheshangalil bakshanam avishyamullavar thaazhe koduthitulla number il udane bendhapeduka.. Rajah  School chavakkad...!!!
+
 -: Kadha Thudarunnu - Aaro Paadunnu Doorey
 
 ### New Dataset: North India Floods (1 file)
@@ -72,9 +74,8 @@ Annotator(s): Two Fluent Speakers
 Annotator Demographic: Kerala, India
 
 Examples:
-+: Reporter:- Aapka Kya Nuksaan Hua H? Flood survivor:- 
-Mera Mard Beh Gaya. Ghar Toot Gaya. Khane Ko Kuch Nahi. 
-Reporter:- Par Nuksaan Kya Hua?
+
++: Reporter:- Aapka Kya Nuksaan Hua H? Flood survivor:- Mera Mard Beh Gaya. Ghar Toot Gaya. Khane Ko Kuch Nahi. Reporter:- Par Nuksaan Kya Hua?
 
 -: johnson's baby lotion karay apke shishu ki komal 
 towcha ki suraksha.  Haha twadi pehn da shishu. Haha.
