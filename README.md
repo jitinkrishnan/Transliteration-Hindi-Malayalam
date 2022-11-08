@@ -4,7 +4,15 @@ Source Code for the paper "Cross-Lingual Text Classification
 of Transliterated Hindi and Malayalam"
 
 ### Paper/Cite
-https://arxiv.org/abs/2108.13620
+https://arxiv.org/abs/2108.13620 (To appear at [IEEE Big Data 2022](https://bigdataieee.org/BigData2022/))
+```
+@article{krishnanDiversity,
+  title={Cross-Lingual Text Classification of Transliterated Hindi and Malayalam},
+  author={Krishnan, Jitin and Anastasopoulos, Antonios and Purohit, Hemant and Rangwala, Huzefa},
+  journal={In Proceedings of IEEE International Conference on Big Data},
+  year={2022}
+}
+```
 
 ### Requirements
 - pip install transformers
