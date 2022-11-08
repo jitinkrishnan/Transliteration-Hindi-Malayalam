@@ -15,7 +15,7 @@ https://arxiv.org/abs/2108.13620 (To appear at [IEEE Big Data 2022](https://bigd
 ```
 
 ### Appendix 
-Redirecting from IEEE Big Data PDF: see appendix [pdf](https://github.com/jitinkrishnan/Transliteration-Hindi-Malayalam/blob/main/appendix.pdf).
+Looking for appendix of the IEEE pdf? Click [this link](https://github.com/jitinkrishnan/Transliteration-Hindi-Malayalam/blob/main/appendix.pdf).
 
 ### Requirements
 - pip install transformers
